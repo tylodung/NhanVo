@@ -1,9 +1,9 @@
 # Site settings
-title: "Phú Quốc Đảo"
-url-title: "Điểm hẹn Phú Quốc"
-description: "Phú Quốc và nơi hẹn hò"
+title: "Những Người Mẹ"
+url-title: "Những Người Mẹ"
+description: "Những Người Mẹ và nơi hẹn hò"
 paginate: 100
-url: "https://site-mau-1.netlify.com"
+url: "https://itechsoftware24h.com/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
