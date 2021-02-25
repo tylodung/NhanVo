@@ -1,9 +1,9 @@
 # Site settings
-title: "Những Người Mẹ"
-url-title: "Những Người Mẹ"
-description: "Những Người Mẹ và nơi hẹn hò"
+title: "Điều Hay"
+url-title: "Điều Hay"
+description: "Điều Hay và nơi hẹn hò"
 paginate: 100
-url: "https://magmare.site/"
+url: "https://bopabinews.work/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
